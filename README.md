@@ -7,7 +7,7 @@ Você pode acessar a aplicação online através do seguinte link: [School-Pass 
 ## Sobre o Projeto
 
 <p align="center">
-  <img alt="projeto Fran AL Silva" src="public/school.jpeg" width="100%">
+  <img alt="projeto Fran AL Silva" src="assets/school.jpeg" width="100%">
 </p>
 
 School-Pass é uma aplicação web que permite aos usuários gerar carteirinhas de identificação estudantil. A aplicação foi desenvolvida utilizando React, TypeScript, react-hook-form, zod, react-router-dom, date-fns, Tailwind CSS e InputMask. Os usuários podem inserir dados pessoais e acadêmicos, visualizar a carteirinha gerada e fazer o download do PDF da carteirinha.
@@ -48,5 +48,5 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em sua máq
 ```bash
 git clone https://github.com/seu-usuario/school-pass.git
 cd school-pass
-# School-Pass
+
 # School-Pass
