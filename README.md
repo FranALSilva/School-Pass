@@ -5,10 +5,8 @@
 Você pode acessar a aplicação online através do seguinte link: [School-Pass - Aplicação Online](https://school-pass-1b3o06fg6-joao-victor-garcias-projects.vercel.app/)
 
 ## Sobre o Projeto
+![image](https://github.com/user-attachments/assets/9b27a35d-e421-4623-a372-8989e48296bc)
 
-<p align="center">
-  <img alt="projeto Fran AL Silva" src="assets/school.jpeg" width="100%">
-</p>
 
 School-Pass é uma aplicação web que permite aos usuários gerar carteirinhas de identificação estudantil. A aplicação foi desenvolvida utilizando React, TypeScript, react-hook-form, zod, react-router-dom, date-fns, Tailwind CSS e InputMask. Os usuários podem inserir dados pessoais e acadêmicos, visualizar a carteirinha gerada e fazer o download do PDF da carteirinha.
 
